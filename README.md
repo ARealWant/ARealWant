@@ -1,5 +1,5 @@
 ## 🎍 | Welcome to my GitHub Profile!
-![http://arealwant.tech/](https://img.shields.io/github/followers/ARealWant?style=social)
+![http://arealwant.tech/](https://img.shields.io/github/followers/ARealWant?style=social) - 
 ![http://arealwant.tech/](https://img.shields.io/website?down_color=red&down_message=offline&label=arealwant.tech&logo=https%3A%2F%2Fcdn.discordapp.com%2Favatars%2F754634421457387670%2F37816bc08686426153862961997ed108.webp%3Fsize%3D128&up_color=green&up_message=online&url=http%3A%2F%2Farealwant.tech%2F)
 - 🔭 I'm currently working on the [Crowby Bot!](https://crowby.me/)
 - 🌱 I'm currently learning Python too!
