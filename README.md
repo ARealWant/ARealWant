@@ -9,6 +9,6 @@
 - 👌 OT: I'm from Germany and I'm learning Spanish currently!
 
 [![ARealWant Github Stats](https://github-readme-stats.vercel.app/api?username=ARealWant)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ARealWant)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARealWant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
