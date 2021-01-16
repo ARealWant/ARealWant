@@ -6,4 +6,4 @@
 - You can find more about me on my [website](https://arealwant.tech/)
 
 
-![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799906251302895624/GitHubARealWant.gif)
+![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799913820335374336/ARealWantBanner_1.gif)
