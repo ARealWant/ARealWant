@@ -1,4 +1,4 @@
-## 🎍 | Welcome to my GitHub Profile!
+## 🍇 | Welcome to my GitHub Profile!
 ![](https://img.shields.io/badge/-ARealWant-4651cb) ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic) ![](https://komarev.com/ghpvc/?username=ARealWant)
 - Started with coding few months ago, trying to get better everyday...
 - Founder of the [Crowby Bot](https://crowby.me/) and [Tempy Bot](https://tempybot.me/)
