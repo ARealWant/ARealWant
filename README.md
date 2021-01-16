@@ -1,5 +1,5 @@
 ## 🎍 | Welcome to my GitHub Profile!
-- ![](https://komarev.com/ghpvc/?username=ARealWant)
+- My profile have currently: ![](https://komarev.com/ghpvc/?username=ARealWant)
 - Started with coding few months ago, trying to get better everyday...
 - Founder of the [Crowby Bot](https://crowby.me/) and [Tempy Bot](https://tempybot.me/)
 - You can find more about me on my [website](https://arealwant.tech/)!
