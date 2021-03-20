@@ -8,7 +8,6 @@
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
   
-<h1 align='center'>
 - Due to that the most of my work's closed source, you won't see a lot on my GitHub
 - Started with coding few months ago, trying to get better everyday...
 - Founder of the [Crowby Bot](https://crowby.me/) and [Tempy Bot](https://tempybot.me/)
@@ -17,6 +16,5 @@
 - Like to help people getting started with programming
 - Trying to do sports, failing every morning
 - You can find more about me on my [website](https://arealwant.tech/)
-</h1>
 
 ![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif)
