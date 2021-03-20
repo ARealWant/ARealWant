@@ -1,5 +1,5 @@
 ## 🍇 | Welcome to my GitHub Profile!
-![](https://img.shields.io/badge/-ARealWant-4651cb) ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic) ![](https://komarev.com/ghpvc/?username=ARealWant)
+![](https://img.shields.io/badge/-ARealWant-4651cb) ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic) ![](https://komarev.com/ghpvc/?username=ARealWant)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
   
 - Due to that the most of my work's closed source, you won't see a lot on my GitHub
