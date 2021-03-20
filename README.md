@@ -2,12 +2,8 @@
      🍇 | Welcome to my GitHub Profile!
 </h1>
 
-<a ![](https://img.shields.io/badge/-ARealWant-4651cb)>
+![](https://img.shields.io/badge/-ARealWant-4651cb)> ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic) ![](https://komarev.com/ghpvc/?username=ARealWant)    
 
-<p align='center'>
-     <a ![](https://img.shields.io/badge/-ARealWant-4651cb)>
-     ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic) ![](https://komarev.com/ghpvc/?username=ARealWant)    
-</p>
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
   
