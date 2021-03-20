@@ -2,6 +2,7 @@
      🍇 | Welcome to my GitHub Profile!
 </h1>
 
+<a ![](https://img.shields.io/badge/-ARealWant-4651cb)>
 
 <p align='center'>
      <a ![](https://img.shields.io/badge/-ARealWant-4651cb)>
