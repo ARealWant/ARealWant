@@ -8,9 +8,9 @@
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
   
-- Due to that the most of my work's closed source, you won't see a lot on my GitHub
-- Started with coding few months ago, trying to get better everyday...
+- Due to that the most of my work is closed source, you won't see a lot at my GitHub Profile
 - Founder, Owner and Developer of the [Tempy Discord Bot](https://tempybot.me/), Founder of [Crowby Bot](https://crowby.me/).
+- Started with coding few months ago, trying to get better everyday...
 - Like to talk with people about nerdy and political stuff
 - Love every kind of music, wether it's Rock, Rap or Pop
 - Like to help people getting started with programming
