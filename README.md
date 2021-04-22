@@ -6,11 +6,11 @@
 <p align="center">
      <img src="https://komarev.com/ghpvc/?username=ARealWant" alt="ARealWant"/></a>
      <img src="https://img.shields.io/badge/-ARealWant-4651cb" alt="ARealWant"/></a>
-     <img src="https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic" alt="ARealWant" /></a> </p>
+     <img src="https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic" alt="ARealWant" /></a> 
+     <img </br> src="https://github-profile-trophy.vercel.app/?username=ARealWant" alt="ARealWant" /></a> 
+     </p>
 
-     
-[![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
-  
+       
 - Due to that the most of my work is closed source, you won't see a lot at my GitHub Profile
 - Founder, Owner and Developer of the [Tempy Discord Bot](https://tempybot.me/), Founder of [Crowby Bot](https://crowby.me/).
 - Started with coding few months ago, trying to get better everyday...
