@@ -3,8 +3,10 @@
 </h1>
 
 
-![](https://komarev.com/ghpvc/?username=ARealWant) ![](https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ARealWant" alt="ARealWant"/></a> <img src="https://img.shields.io/badge/-ARealWant-4651cb" alt="ARealWant"/></a> <img src="https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic" alt="ARealWant" /></a> </p>
+<p align="center">
+     <img src="https://komarev.com/ghpvc/?username=ARealWant" alt="ARealWant"/></a>
+     <img src="https://img.shields.io/badge/-ARealWant-4651cb" alt="ARealWant"/></a>
+     <img src="https://img.shields.io/twitter/follow/ARealWant?color=%234651cb&label=Twitter&style=plastic" alt="ARealWant" /></a> </p>
 
      
 [![trophy](https://github-profile-trophy.vercel.app/?username=ARealWant)](https://github.com/ryo-ma/github-profile-trophy)
