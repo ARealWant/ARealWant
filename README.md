@@ -6,7 +6,7 @@
 <p align="center"> 
      <img src="https://img.shields.io/badge/-ARealWant-4651cb" alt="ARealWant"/></a>
      <img src="https://komarev.com/ghpvc/?username=ARealWant" alt="ARealWant"/></a>
-     <img src="https://github-profile-trophy.vercel.app/?username=ARealWant&margin-w=5&no-bg=true&no-frame=true&rank=S,A" alt="ARealWant" /></a> 
+     <img src="https://github-profile-trophy.vercel.app/?username=ARealWant&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=5&no-bg=true&no-frame=true" alt="ARealWant" /></a> 
      </p>
 
        
