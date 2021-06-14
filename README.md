@@ -1,3 +1,11 @@
+<script>
+     .page-header{
+color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
+}
+     </script>
+
 <h1 align='center'>
      🍇 | Welcome to my GitHub Profile!
 </h1>
