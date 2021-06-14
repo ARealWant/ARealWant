@@ -1,11 +1,3 @@
-<script>
-     .page-header{
-color:#ffff;
-background-color:#A067AB;
-background-image:linear-gradient(120deg,#5073B8,#A067AB);
-}
-     </script>
-
 <h1 align='center'>
      🍇 | Welcome to my GitHub Profile!
 </h1>
@@ -27,5 +19,5 @@ background-image:linear-gradient(120deg,#5073B8,#A067AB);
 - Trying to do sports, failing every morning
 - You can find more about me on my [website](https://arealwant.tech/)
 
-![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif)
+![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif) 
      
