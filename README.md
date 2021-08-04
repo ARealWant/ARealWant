@@ -17,7 +17,7 @@
 - Love every kind of music, wether it's Rock, Rap or Pop
 - Like to help people getting started with programming
 - Trying to do sports, failing every morning
-- You can find more about me on my [website](https://arealwant.tech/)
+- You can find more about me on my [website](https://arealwant.com/)
 
 ![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif) 
      
