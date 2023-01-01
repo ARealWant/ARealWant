@@ -10,13 +10,10 @@
      </p>
 
        
-- Due to that the most of my work is closed source, you won't see a lot at my GitHub Profile
-- Founder, Owner and Developer of the [Tempy Discord Bot](https://tempybot.me/), Founder of [Crowby Bot](https://crowby.me/)
-- Started with coding 2 years ago, trying to get better everyday...
-- Like to talk with people about nerdy and political stuff
-- Love every kind of music, wether it's Rock, Rap or Pop
-- Like to help people getting started with programming
-- Trying to do sports, failing every morning
+- I don't often have the chance to post my projects online because a lot of them aren't open source. But when I do work with a team, I like to share what we've been working on. Sharing knowledge and experiences can be really valuable, especially in the tech field.
+- Over the past few years, I have worked on a number of projects. One of the most successful so far has been the Tempy Discord bot. It has received a lot of positive feedback and has proven to be a valuable asset to many users.
+- I am very passionate about politics and love engaging in discussions about current events. In my free time, I enjoy participating in physical activities such as swimming and cycling. I also love connecting with new people and hearing about their diverse perspectives on a variety of topics.
+- Although I have a fair amount of experience with various programming languages, I still struggle with writing error-free code. Despite this, I enjoy helping others, particularly those who are new to programming, and try to encourage them to improve their skills. I believe that with dedication and practice, anyone can become proficient in coding.
 - You can find more about me on my [website](https://arealwant.com/)
 
 ![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif) 
