@@ -1,5 +1,5 @@
 <h1 align='center'>
-     Welcome to my GitHub Profile!
+     Welcome to my GitHub profile! 👋
 </h1>
 
 
@@ -10,7 +10,6 @@
      </p>
 
    <div>
-        <p>Check out my personal website and Tempy Bot:</p>
         <table>
             <thead>
                 <tr border="none!important;">
