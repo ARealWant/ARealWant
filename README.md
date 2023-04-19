@@ -9,8 +9,8 @@
      <img src="https://github-profile-trophy.vercel.app/?username=ARealWant&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&no-bg=true&no-frame=true" alt="ARealWant" /></a> 
      </p>
 
-
    <div>
+        <p>Check out my personal website and Tempy Bot:</p>
         <table>
             <thead>
                 <tr border="none!important;">
@@ -20,8 +20,10 @@
             </thead>
             <tbody>
                 <tr>
-                    <td><a href="https://arealwant.com/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_EkHbwqww5Q.png"/></a></td>
-                    <td><a href="https://tempybot.me/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_CcqUCM25Nh.png"/></a></td>
+                    <td><a href="https://arealwant.com/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_EkHbwqww5Q.png"/></a>
+                    <p>Explore my personal website where you can find information about me and my projects.</p></td>
+                    <td><a href="https://tempybot.me/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_CcqUCM25Nh.png"/></a>
+                    <p>Discover the power of Tempy Bot - the most popular Discord bot for creating temporary voice channels.</p></td>
                 </tr>
             </tbody>
         </table>
