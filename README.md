@@ -16,5 +16,5 @@
 - Although I have a fair amount of experience with various programming languages, I still struggle with writing error-free code. Despite this, I enjoy helping others, particularly those who are new to programming, and try to encourage them to improve their skills. I believe that with dedication and practice, anyone can become proficient in coding.
 - You can find more about me on my [website](https://arealwant.com/)
 
-![Banner](https://cdn.discordapp.com/attachments/761891074116681748/799922898441338900/arealwant_color_animated_banner.gif) 
+![Banner](https://media.discordapp.net/attachments/784948147881115688/1098266713511960696/bgGH.gif?width=1439&height=479) 
      
