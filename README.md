@@ -9,13 +9,13 @@
      <img src="https://github-profile-trophy.vercel.app/?username=ARealWant&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=5&no-bg=true&no-frame=true" alt="ARealWant" /></a> 
      </p>
 
-<h2 align='center'>Some of my websiets</h2>
-    <div>
+
+   <div>
         <table>
             <thead>
                 <tr border="none!important;">
                     <th style="border: none!important;">Private Website</span></th>
-                    <th style="border: none!important;">Kawaii API</span></th>
+                    <th style="border: none!important;">Tempy Bot</span></th>
                 </tr>
             </thead>
             <tbody>
@@ -25,7 +25,7 @@
                 </tr>
             </tbody>
         </table>
-    </div>
+   </div>
 
 ![Banner](https://media.discordapp.net/attachments/784948147881115688/1098266713511960696/bgGH.gif?width=1439&height=479) 
      
