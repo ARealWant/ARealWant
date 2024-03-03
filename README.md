@@ -14,33 +14,38 @@
             <tr border="none!important;">
                 <th style="border: none!important;">Private Website</th>
                 <th style="border: none!important;">Tempy Bot</th>
-                <th style="border: none!important;">Das Lehrerzeugnis (The Teacher Evaluation)</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>
-                    <a href="https://arealwant.com/">
-                        <img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_EkHbwqww5Q.png"/>
-                    </a>
-                    <p>Explore my personal website where you can find information about me and my projects.</p>
-                </td>
-                <td>
-                    <a href="https://tempybot.me/">
-                        <img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_CcqUCM25Nh.png"/>
-                    </a>
-                    <p>Discover the power of Tempy Bot - the most popular Discord bot for creating temporary voice channels.</p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <img src="https://media.licdn.com/dms/image/D4E12AQHojWIpd-LF_g/article-inline_image-shrink_1000_1488/0/1709465880343?e=1715212800&v=beta&t=kBNwLjQ-KRuQ6oxBYuY55k7bBBMgFHV1Y23WR1QlVKA"/>
-                    <p>A prototype website with which students can evaluate their teachers' lessons.</p>
-                </td>
+                <td><a href="https://arealwant.com/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_EkHbwqww5Q.png" style="width: 300px; height: 200px;"/></a>
+                    <p>Explore my personal website where you can find information about me and my projects.</p></td>
+                <td><a href="https://tempybot.me/"><img src="https://us-east-1.tixte.net/uploads/media.arealwant.com/chrome_CcqUCM25Nh.png" style="width: 300px; height: 200px;"/></a>
+                    <p>Discover the power of Tempy Bot - the most popular Discord bot for creating temporary voice channels.</p></td>
             </tr>
         </tbody>
     </table>
 </div>
+
+<div>
+    <table>
+        <thead>
+            <tr border="none!important;">
+                <th style="border: none!important;">Das Lehrerzeugnis (The Teacher Evaluation)</th>
+                <th style="border: none!important;">A self-managing school Discord server</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://www.linkedin.com/pulse/way-students-rate-teachers-lessons-using-bootstrap-python-ibrahim-9zwve/"><img src="https://media.licdn.com/dms/image/D4E12AQHojWIpd-LF_g/article-inline_image-shrink_1000_1488/0/1709465880343?e=1715212800&v=beta&t=kBNwLjQ-KRuQ6oxBYuY55k7bBBMgFHV1Y23WR1QlVKA" style="width: 300px; height: 200px;"/></a>
+                    <p>A prototype website with which students can evaluate their teachers' lessons.</p></td>
+                <td><a href="https://www.linkedin.com/pulse/creation-self-managing-school-discord-server-using-python-ibrahim-i0nne/"><img src="https://media.arealwant.com/r/chrome_M859AdBYwl.png" style="width: 300px; height: 200px;"/></a>
+                    <p>Explore my personal website where you can find information about me and my projects.</p></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 
 ![Banner](https://media.discordapp.net/attachments/784948147881115688/1098266713511960696/bgGH.gif?width=1439&height=479) 
