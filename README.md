@@ -37,7 +37,7 @@
         </thead>
         <tbody>
             <tr>
-                <td><a href="https://www.linkedin.com/pulse/way-students-rate-teachers-lessons-using-bootstrap-python-ibrahim-9zwve/"><img src="https://media.licdn.com/dms/image/D4E12AQHojWIpd-LF_g/article-inline_image-shrink_1000_1488/0/1709465880343?e=1715212800&v=beta&t=kBNwLjQ-KRuQ6oxBYuY55k7bBBMgFHV1Y23WR1QlVKA"/></a>
+                <td><a href="https://www.linkedin.com/pulse/way-students-rate-teachers-lessons-using-bootstrap-python-ibrahim-9zwve/"><img src="https://media.arealwant.com/r/chrome_i8mLrYbfpA.png"/></a>
                     <p>A prototype website with which students can evaluate their teachers' lessons.</p></td>
                 <td><a href="https://www.linkedin.com/pulse/creation-self-managing-school-discord-server-using-python-ibrahim-i0nne/"><img src="https://media.arealwant.com/r/chrome_M859AdBYwl.png"/></a>
                     <p>Explore my personal website where you can find information about me and my projects.</p></td>
