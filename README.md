@@ -40,7 +40,9 @@
                 <td><a href="https://www.linkedin.com/pulse/way-students-rate-teachers-lessons-using-bootstrap-python-ibrahim-9zwve/"><img src="https://media.arealwant.com/r/chrome_6wnRiK0bZv.png"/></a>
                     <p>A prototype website with which students can evaluate their teachers' lessons.</p></td>
                 <td><a href="https://www.linkedin.com/pulse/creation-self-managing-school-discord-server-using-python-ibrahim-i0nne/"><img src="https://media.arealwant.com/r/chrome_M859AdBYwl.png"/></a>
-                    <p>Explore my personal website where you can find information about me and my projects.</p></td>
+                    <p>In tihs article, I explain how I used Python and MongoDB to develop a Discord Bot that automatically manages a school Discord server and simplifies communication between students.
+
+</p></td>
             </tr>
         </tbody>
     </table>
